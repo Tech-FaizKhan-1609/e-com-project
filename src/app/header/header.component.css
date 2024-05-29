@@ -1,0 +1,125 @@
+/* .nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav h1{
+    color: blueviolet;
+    margin: 0;
+    font-size: 40px;
+}
+.nav ul{
+    display: inline-flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav li{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.nav li a{
+    text-decoration: none;
+    color: blueviolet;
+}
+.nav .nav-search{
+    margin-top: 5px;
+    flex: 1;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.nav .nav-search input{
+    flex: 1;
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 39px;
+    border-right: 0px;
+}
+
+.nav .nav-search button{
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    height: 39px;
+    border-left: 0px;
+} */
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f9f9f9;
+  padding: 15px 20px; 
+  border-radius: 8px; 
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+.nav h1 {
+  color: blueviolet;
+  margin: 0;
+  font-size: 40px;
+}
+
+.nav ul {
+  display: inline-flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  padding: 15px 20px;
+}
+
+.nav li a {
+  text-decoration: none;
+  color: blueviolet;
+  transition: color 0.3s ease;
+}
+
+.nav li a:hover {
+  color: #8a2be2; 
+}
+
+.nav .nav-search {
+  margin-top: 5px;
+  flex: 1;
+  display: flex;
+  margin: 0 5%;
+}
+
+.nav .nav-search input {
+  flex: 1;
+  color: blueviolet;
+  border: 1px solid blueviolet;
+  height: 39px;
+  border-right: 0;
+  border-top-left-radius: 20px; 
+  border-bottom-left-radius: 20px; 
+  padding: 0 15px;
+}
+
+.nav .nav-search button {
+  color: white;
+  background-color: blueviolet; 
+  border: 1px solid blueviolet;
+  height: 39px;
+  border-left: 0;
+  border-top-right-radius: 20px; 
+  border-bottom-right-radius: 20px; 
+  padding: 0 20px;
+  cursor: pointer; 
+  transition: background-color 0.3s ease;
+}
+
+.nav .nav-search button:hover {
+  background-color: #8a2be2;
+}
+
+h1 a {
+  color: blueviolet;
+  text-decoration: none;
+  transition: color 0.3s ease; 
+}
+
+h1 a:hover {
+  color: #8a2be2;
+}

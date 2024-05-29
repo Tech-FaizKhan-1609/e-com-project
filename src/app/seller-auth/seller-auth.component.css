@@ -1,0 +1,43 @@
+/* .signup{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 80px;
+    color: blueviolet;
+} */
+
+/* .auth-toggle-link{
+    margin-top: 20px;
+    color: blueviolet;
+    font-size: 14px;
+    text-align: left;
+} */
+.signup,.login {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 80px;
+    color: blueviolet;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.signup:hover,.login:hover {
+    color: purple;
+}
+
+.auth-toggle-link {
+    margin-top: 25px;
+    color: blueviolet;
+    font-size: 12px;
+    text-align: left;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.auth-toggle-link:hover {
+    color: darkblue;
+}
