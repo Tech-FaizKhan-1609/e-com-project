@@ -17,6 +17,12 @@
       "email": "stark@seller.com",
       "password": "abc@123",
       "id": "DfWcmYe"
+    },
+    {
+      "name": "Thor",
+      "email": "thor@seller.com",
+      "password": "abc123",
+      "id": "gh_hst3"
     }
   ]
 }
