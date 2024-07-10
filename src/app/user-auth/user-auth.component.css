@@ -1,0 +1,86 @@
+/* .user-auth {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-auth h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .common-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .common-form input[type="text"],
+  .common-form input[type="password"] {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .common-form button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .common-form button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+   */
+
+
+   .user-auth h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: blueviolet;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+    
+  }
+
+
+
+  .user-auth{
+    margin-bottom: 130px;
+  }
+
+
+
+ .common-form p {
+    color: blueviolet;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 8px;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  }
+  
+ .common-form a {
+    text-decoration: none;
+    color: purple;
+    transition: color 0.3s ease;
+    cursor: pointer;
+
+  }
+  
+ .common-form a:hover {
+    text-decoration: none;
+    cursor: pointer;
+    color:violet ;
+
+  }
+  

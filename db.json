@@ -24,5 +24,111 @@
       "password": "abc123",
       "id": "gh_hst3"
     }
+  ],
+  "products": [
+    {
+      "name": "Samsung S24",
+      "price": "150000",
+      "color": "Black",
+      "category": "Mobiles",
+      "description": "Comes With Ai Features",
+      "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1705640288/Croma%20Assets/Communication/Mobiles/Images/303838_oqpio4.png?tr=w-480,h-480",
+      "id": 1
+    },
+    {
+      "name": "Iphone 14",
+      "price": "99999",
+      "category": "Mobile",
+      "color": "Black",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "description": "Apples best product",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "49999",
+      "category": "Laptop",
+      "color": "Black",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "description": "Best product",
+      "id": 3
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 4
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "color": "blue",
+      "category": "Jeans",
+      "description": "comfortable jeans for mens ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "id": 5
+    },
+    {
+      "name": "Truck",
+      "price": "599",
+      "color": "Red",
+      "category": "Toys",
+      "description": "A Toy for 5 or below 5 age childrens",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "id": 6
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 7
+    },
+    {
+      "name": "Washing Machine",
+      "price": "29099",
+      "color": "Black",
+      "category": "Appliances",
+      "description": "Automatic washing machine",
+      "image": "https://rukminim2.flixcart.com/image/150/150/xif0q/washing-machine-new/e/f/n/-original-imagzhz2j8jhzzdq.jpeg?q=70",
+      "id": 8
+    },
+    {
+      "name": "Wall Clock",
+      "price": "1099",
+      "color": "Black",
+      "category": "Home-Appliances",
+      "description": "Quality Product",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/wall-clock/z/4/m/heart-design-wall-clock-25-clock-101-analog-kanbi-decor-25-original-imahf7ynnhgxzpeg.jpeg?q=70",
+      "id": 9
+    },
+    {
+      "name": "Sony PS-4",
+      "price": "31199",
+      "color": "Black",
+      "category": "Gaming",
+      "description": "Best Ever Gaming Product",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/gamingconsole/m/b/e/1tb-playstation-4-brand-new-ps4-slim-console-sony-yes-original-imahfcz9grdewtj2.jpeg?q=70",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "Suhel Khan",
+      "email": "suhel@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "Faiz",
+      "email": "faiz@user.com",
+      "password": "abc123",
+      "id": 2
+    }
   ]
 }

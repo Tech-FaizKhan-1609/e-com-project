@@ -1,0 +1,30 @@
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    color: blueviolet;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+p.message-p {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #008000;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: #e9f7ef; 
+    box-shadow: 0 2px 4px rgba(0, 128, 0, 0.2);
+  }
+  @keyframes fade-in {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  p.message-p {
+    animation: fade-in 0.5s ease;
+  }
+  

@@ -21,6 +21,15 @@
     color: blueviolet;
 
 }*/
+
+
+ /* .carousel-caption{
+  background-color: #00000082;
+  border-radius: 5px;
+ } */
+
+
+
 .form-button{
     height: 35px;
     border: 1px solid blueviolet;
@@ -42,7 +51,7 @@
   .container {
     margin: 0 5%;
   }
-  
+
 
   .common-form {
     margin: 20px auto;
@@ -94,3 +103,53 @@
  .error-p{
      color: red;
  } 
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.6); 
+  border-radius: 5px; 
+  padding: 10px; 
+  color: #ffffff; 
+  font-family: Arial, sans-serif; 
+  font-size: 18px;
+  text-align: center; 
+}
+
+.carousel-caption {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); 
+}
+
+.carousel-caption {
+  transition: background-color 0.3s ease; 
+}
+
+.carousel-caption:hover {
+  background-color: rgba(0, 0, 0, 0.8); 
+}
+
+
+
+
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23fff'%3e%3cpath d='M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  display: inline-block;
+  width: 2rem;
+  height: 2rem;
+  background-color: blueviolet;
+  background-repeat: no-repeat;
+  background-position: 100%;
+  background-size: 100% 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
